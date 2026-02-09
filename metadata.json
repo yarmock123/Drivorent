@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DrivoRent",
+  "description": "Una aplicación moderna y minimalista de renta de vehículos entre personas (P2P). Conecta a propietarios con conductores de manera segura y confiable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
